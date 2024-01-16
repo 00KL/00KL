@@ -65,3 +65,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@00kl22-grey?style=social&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/00kl22)](https://twitter.com/00kl22)
 
 [![Email Badge](https://img.shields.io/badge/-olucasmoraes1@gmail.com-yellow?style=social&logo=gmail&link="mailto:olucasmoraes1@gmail.com")](olucasmoraes1@gmail.com)
+
+[![Site Badge](https://img.shields.io/badge/-https://lucasmoraes.vercel.app/-yellow?style=social&logo=googlechrome&link="https://lucasmoraes.vercel.app/")](https://lucasmoraes.vercel.app/)
+
