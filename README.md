@@ -29,6 +29,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40px" title="Dart"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="Css"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40px" title="C"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  width="40px" title="Solidity"/></code>
 
 <!-- Tenho apenas experiência academica nas seguintes linguagens e por isso optei por deixalas comentadas -->
 <!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/></code> -->
