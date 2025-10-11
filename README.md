@@ -9,7 +9,7 @@
 ### About me
 
 <ul>
-    <li>😎 I'm 25 years old developer from Brazil.</li>
+    <li>😎 I'm 27 years old developer from Brazil.</li>
     <li>🎓 I'm student of Computer Science at <a href="https://www.ufes.br/">UFES</a></li>
     <li>🖥️ Currently I'm focused on learning more about frontend development with React and NextJS.</li>
     <li>Previous experience with Python and Django on the backend.</li>
