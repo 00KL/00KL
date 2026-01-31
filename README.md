@@ -1,11 +1,5 @@
 ## Hello, my name is Lucas!
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00kl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<!-- <img align=right alt="Pixel Art Avatar" src="./avatar.png">-->
-
 ### About me
 
 <ul>
@@ -65,12 +59,13 @@
 ---
   
 ### Contact
+<a href="https://www.linkedin.com/in/olucasmoraes1/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/00kl22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:olucasmoraes1@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://lucasmoraes.vercel.app/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="28"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Moraes-yellow?style=social&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/olucasmoraes1/)](https://www.linkedin.com/in/olucasmoraes1/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@00kl22-grey?style=social&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/00kl22)](https://twitter.com/00kl22)
-
-[![Email Badge](https://img.shields.io/badge/-olucasmoraes1@gmail.com-yellow?style=social&logo=gmail&link="mailto:olucasmoraes1@gmail.com")](olucasmoraes1@gmail.com)
-
-[![Site Badge](https://img.shields.io/badge/-https://lucasmoraes.vercel.app/-yellow?style=social&logo=googlechrome&link="https://lucasmoraes.vercel.app/")](https://lucasmoraes.vercel.app/)
 
