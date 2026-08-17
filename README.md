@@ -30,7 +30,6 @@ Always building, learning, and sharing knowledge.
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:olucasmoraes1@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://lucasmoraes.vercel.app/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="28"/></a>
 
 
 
